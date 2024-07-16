@@ -1,12 +1,12 @@
-symbol;company;purpose;bm_desc;date
-ANTGRAPHIC;Antarctica Limited;Fund Raising/Other business matters;Revised Intimation of Board Meeting Pursuant to Regulation 29 ofSEBI(LODR) Regulation, 2015.;17-Jul-2024
-ASIANPAINT;Asian Paints Limited;Other business matters;"This is to inform you that a meeting of the Board of Directors of the Company will be held on Wednesday, 17th July 2024, inter alia, to consider the following: 1. Approval of audited standalone financial results of the Company for the quarter ending 30th June 2024; and 2. Approval of unaudited consolidated financial results of the Company for the quarter ending 30th June 2024.";17-Jul-2024
-E2E;E2E Networks Limited;Financial Results;To consider and approve the financial results for the period ended Jun 30, 2024;17-Jul-2024
-ELECON;Elecon Engineering Company Limited;Financial Results;To consider and approve the financial results for the period ended Jun 30, 2024;17-Jul-2024
-HATHWAY;Hathway Cable & Datacom Limited;Financial Results;To consider and approve the financial results for the period ended Jun 30, 2024;17-Jul-2024
-LTIM;LTIMindtree Limited;Financial Results;To consider and approve the financial results for the period ended Jun 30, 2024;17-Jul-2024
-MMFL;MM Forgings Limited;Other business matters;To consider and approve allotment of Bonus shares;17-Jul-2024
-RATNAVEER;Ratnaveer Precision Engineering Limited;Financial Results/Other business matters;To consider and approve the financial results for the period ended Jun 30, 2024 and other business matters;17-Jul-2024
-RETAIL;JHS Svendgaard Retail Ventures Limited;Financial Results;To consider and approve the financial results for the period ended March 31, 2024;17-Jul-2024
-SURANASOL;Surana Solar Limited;Financial Results;To consider and approve the financial results for the period ended Jun 30, 2024;17-Jul-2024
-VIMTALABS;Vimta Labs Limited;Financial Results;To consider and approve the financial results for the period ended Jun 30, 2024;17-Jul-2024
+symbol,company,purpose,date
+ANTGRAPHIC,Antarctica Limited,Fund Raising/Other business matters,17-Jul-2024
+ASIANPAINT,Asian Paints Limited,Other business matters,17-Jul-2024
+E2E,E2E Networks Limited,Financial Results,17-Jul-2024
+ELECON,Elecon Engineering Company Limited,Financial Results,17-Jul-2024
+HATHWAY,Hathway Cable & Datacom Limited,Financial Results,17-Jul-2024
+LTIM,LTIMindtree Limited,Financial Results,17-Jul-2024
+MMFL,MM Forgings Limited,Other business matters,17-Jul-2024
+RATNAVEER,Ratnaveer Precision Engineering Limited,Financial Results/Other business matters,17-Jul-2024
+RETAIL,JHS Svendgaard Retail Ventures Limited,Financial Results,17-Jul-2024
+SURANASOL,Surana Solar Limited,Financial Results,17-Jul-2024
+VIMTALABS,Vimta Labs Limited,Financial Results,17-Jul-2024

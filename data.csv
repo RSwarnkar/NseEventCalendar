@@ -1,55 +1,78 @@
 symbol,company,purpose,date
-ACC,ACC Limited,Financial Results,29-Jul-2024
-AFIL,Akme Fintrade (India) Limited,Financial Results,29-Jul-2024
-AGI,AGI Greenpac Limited,Financial Results/Other business matters,29-Jul-2024
-APOLLOPIPE,Apollo Pipes Limited,Financial Results,29-Jul-2024
-ARVIND,Arvind Limited,Financial Results,29-Jul-2024
-ASKAUTOLTD,ASK Automotive Limited,Financial Results,29-Jul-2024
-ASTEC,Astec LifeSciences Limited,Financial Results,29-Jul-2024
-ATGL,Adani Total Gas Limited,Financial Results,29-Jul-2024
-AWL,Adani Wilmar Limited,Financial Results,29-Jul-2024
-BALMLAWRIE,Balmer Lawrie & Company Limited,Financial Results/Other business matters,29-Jul-2024
-BEL,Bharat Electronics Limited,Financial Results,29-Jul-2024
-CCCL,Consolidated Construction Consortium Limited,Financial Results,29-Jul-2024
-COLPAL,Colgate Palmolive (India) Limited,Financial Results,29-Jul-2024
-CSBBANK,CSB Bank Limited,Financial Results,29-Jul-2024
-DATAPATTNS,Data Patterns (India) Limited,Financial Results,29-Jul-2024
-DCMNVL,DCM Nouvelle Limited,Financial Results,29-Jul-2024
-GOODLUCK,Goodluck India Limited,Financial Results,29-Jul-2024
-GVPTECH,GVP Infotech Limited,Financial Results,29-Jul-2024
-HINDPETRO,Hindustan Petroleum Corporation Limited,Financial Results,29-Jul-2024
-ICIL,Indo Count Industries Limited,Financial Results,29-Jul-2024
-IDEAFORGE,Ideaforge Technology Limited,Financial Results,29-Jul-2024
-INDIAGLYCO,India Glycols Limited,Financial Results,29-Jul-2024
-INDIANB,Indian Bank,Financial Results,29-Jul-2024
-ISMTLTD,ISMT Limited,Financial Results,29-Jul-2024
-JAIBALAJI,Jai Balaji Industries Limited,Financial Results/Other business matters,29-Jul-2024
-JINDALSAW,Jindal Saw Limited,Financial Results,29-Jul-2024
-JINDRILL,Jindal Drilling And Industries Limited,Financial Results,29-Jul-2024
-KANSAINER,Kansai Nerolac Paints Limited,Other business matters,29-Jul-2024
-KEI,KEI Industries Limited,Financial Results,29-Jul-2024
-KPIL,Kalpataru Projects International Limited,Financial Results/Other business matters,29-Jul-2024
-KRISHANA,Krishana Phoschem Limited,Financial Results,29-Jul-2024
-LOVABLE,Lovable Lingerie Limited,Financial Results/Dividend,29-Jul-2024
-MAHSEAMLES,Maharashtra Seamless Limited,Financial Results,29-Jul-2024
-MANGCHEFER,Mangalore Chemicals & Fertilizers Limited,Financial Results,29-Jul-2024
-MANYAVAR,Vedant Fashions Limited,Financial Results,29-Jul-2024
-MBAPL,Madhya Bharat Agro Products Limited,Financial Results/Other business matters,29-Jul-2024
-NDTV,New Delhi Television Limited,Financial Results,29-Jul-2024
-OMAXAUTO,Omax Autos Limited,Financial Results/Dividend,29-Jul-2024
-PFIZER,Pfizer Limited,Financial Results,29-Jul-2024
-PRIVISCL,Privi Speciality Chemicals Limited,Financial Results,29-Jul-2024
-QUESS,Quess Corp Limited,Financial Results,29-Jul-2024
-RBA,Restaurant Brands Asia Limited,Financial Results,29-Jul-2024
-SANGHIIND,Sanghi Industries Limited,Financial Results,29-Jul-2024
-SARLAPOLY,Sarla Performance Fibers Limited,Financial Results,29-Jul-2024
-SASTASUNDR,Sastasundar Ventures Limited,Financial Results,29-Jul-2024
-SHANTIGEAR,Shanthi Gears Limited,Financial Results,29-Jul-2024
-STAR,Strides Pharma Science Limited,Financial Results,29-Jul-2024
-STOVEKRAFT,Stove Kraft Limited,Board meeting Rescheduled,29-Jul-2024
-STOVEKRAFT,Stove Kraft Limited,Financial Results,29-Jul-2024
-TAINWALCHM,Tainwala Chemical and Plastic (I) Limited,Financial Results,29-Jul-2024
-VOLTAMP,Voltamp Transformers Limited,Financial Results,29-Jul-2024
-WHEELS,Wheels India Limited,Financial Results,29-Jul-2024
-WHIRLPOOL,Whirlpool of India Limited,Financial Results,29-Jul-2024
-WONDERLA,Wonderla Holidays Limited,Financial Results,29-Jul-2024
+360ONE,360 ONE WAM LIMITED,Financial Results/Dividend,30-Jul-2024
+ADFFOODS,ADF Foods Limited,Financial Results,30-Jul-2024
+ADSL,Allied Digital Services Limited,Financial Results,30-Jul-2024
+AEGISLOG,Aegis Logistics Limited,Financial Results,30-Jul-2024
+AKSHAR,Akshar Spintex Limited,Financial Results/Other business matters,30-Jul-2024
+APARINDS,Apar Industries Limited,Financial Results,30-Jul-2024
+ARVSMART,Arvind SmartSpaces Limited,Financial Results,30-Jul-2024
+BALUFORGE,Balu Forge Industries Limited,Financial Results/Dividend/Other business matters,30-Jul-2024
+CAPITALSFB,Capital Small Finance Bank Limited,Financial Results/Other business matters,30-Jul-2024
+CARBORUNIV,Carborundum Universal Limited,Financial Results,30-Jul-2024
+CARTRADE,Cartrade Tech Limited,Financial Results,30-Jul-2024
+CASTROLIND,Castrol India Limited,Financial Results/Dividend,30-Jul-2024
+CORDSCABLE,Cords Cable Industries Limited,Financial Results/Other business matters,30-Jul-2024
+DAMODARIND,Damodar Industries Limited,Financial Results/Other business matters,30-Jul-2024
+DBSTOCKBRO,DB (International) Stock Brokers Limited,Financial Results/Other business matters,30-Jul-2024
+DIXON,Dixon Technologies (India) Limited,Financial Results,30-Jul-2024
+EMUDHRA,eMudhra Limited,Financial Results,30-Jul-2024
+EXICOM,Exicom Tele-Systems Limited,Financial Results/Other business matters,30-Jul-2024
+EXICOM,Exicom Tele-Systems Limited,Financial Results,30-Jul-2024
+EXIDEIND,Exide Industries Limited,Other business matters,30-Jul-2024
+FINEORG,Fine Organic Industries Limited,Financial Results,30-Jul-2024
+FORCEMOT,FORCE MOTORS LTD,Financial Results,30-Jul-2024
+FSL,Firstsource Solutions Limited,Financial Results,30-Jul-2024
+GAIL,GAIL (India) Limited,Financial Results/Other business matters,30-Jul-2024
+GAYAHWS,Gayatri Highways Limited,Financial Results,30-Jul-2024
+GOKUL,Gokul Refoils and Solvent Limited,Financial Results,30-Jul-2024
+GRANULES,Granules India Limited,Financial Results,30-Jul-2024
+GREENPANEL,Greenpanel Industries Limited,Financial Results,30-Jul-2024
+HUBTOWN,Hubtown Limited,Fund Raising,30-Jul-2024
+HYBRIDFIN,Hybrid Financial Services Limited,Financial Results/Other business matters,30-Jul-2024
+IMPAL,India Motor Parts and Accessories Limited,Financial Results,30-Jul-2024
+INDIAMART,Indiamart Intermesh Limited,Financial Results,30-Jul-2024
+INDUSTOWER,Indus Towers Limited,Buyback,30-Jul-2024
+INDUSTOWER,Indus Towers Limited,Financial Results,30-Jul-2024
+IOC,Indian Oil Corporation Limited,Financial Results,30-Jul-2024
+JCHAC,Johnson Controls - Hitachi Air Conditioning India Limited,Financial Results,30-Jul-2024
+JSL,Jindal Stainless Limited,Financial Results,30-Jul-2024
+JSL,Jindal Stainless Limited,Fund Raising,30-Jul-2024
+LEXUS,Lexus Granito (India) Limited,Financial Results,30-Jul-2024
+LLOYDSENGG,LLOYDS ENGINEERING WORKS LIMITED,Financial Results/Fund Raising/Other business matters,30-Jul-2024
+LLOYDSME,Lloyds Metals And Energy Limited,Financial Results/Other business matters,30-Jul-2024
+LODHA,Macrotech Developers Limited,Financial Results,30-Jul-2024
+MANORAMA,Manorama Industries Limited,Financial Results/Other business matters,30-Jul-2024
+MOIL,MOIL Limited,Financial Results,30-Jul-2024
+MUFIN,Mufin Green Finance Limited,Fund Raising,30-Jul-2024
+NAVINFLUOR,Navin Fluorine International Limited,Financial Results,30-Jul-2024
+NXST,Nexus Select Trust,Dividend/Fund Raising,30-Jul-2024
+NXST,Nexus Select Trust,Other business matters,30-Jul-2024
+PANAMAPET,Panama Petrochem Limited,Financial Results,30-Jul-2024
+PFS,PTC India Financial Services Limited,Financial Results,30-Jul-2024
+PTCIL,PTC Industries Limited,Financial Results,30-Jul-2024
+RAJRATAN,Rajratan Global Wire Limited,Financial Results/Other business matters,30-Jul-2024
+RPPL,Rajshree Polypack Limited,Financial Results,30-Jul-2024
+RRKABEL,R R Kabel Limited,Financial Results,30-Jul-2024
+SAPPHIRE,Sapphire Foods India Limited,Financial Results,30-Jul-2024
+SELMC,SEL Manufacturing Company Limited,Financial Results/Other business matters,30-Jul-2024
+SERVOTECH,Servotech Power Systems Limited,Financial Results/Other business matters,30-Jul-2024
+SHEMAROO,Shemaroo Entertainment Limited,Financial Results,30-Jul-2024
+SHYAMMETL,Shyam Metalics and Energy Limited,Financial Results/Other business matters,30-Jul-2024
+SKIPPER,Skipper Limited,Financial Results,30-Jul-2024
+SMCGLOBAL,SMC Global Securities Limited,Financial Results,30-Jul-2024
+SOUTHBANK,The South Indian Bank Limited,Fund Raising/Other business matters,30-Jul-2024
+SPANDANA,Spandana Sphoorty Financial Limited,Fund Raising,30-Jul-2024
+STARHEALTH,Star Health and Allied Insurance Company Limited,Financial Results,30-Jul-2024
+STEL,Stel Holdings Limited,Financial Results/Other business matters,30-Jul-2024
+STLTECH,Sterlite Technologies Limited,Financial Results,30-Jul-2024
+TATACONSUM,TATA CONSUMER PRODUCTS LIMITED,Financial Results/Other business matters,30-Jul-2024
+TCPLPACK,TCPL Packaging Limited,Financial Results,30-Jul-2024
+TITAGARH,TITAGARH RAIL SYSTEMS LIMITED,Financial Results,30-Jul-2024
+TORNTPOWER,Torrent Power Limited,Financial Results,30-Jul-2024
+TVSSCS,TVS Supply Chain Solutions Limited,Financial Results,30-Jul-2024
+URJA,Urja Global Limited,Fund Raising,30-Jul-2024
+URJA,Urja Global Limited,Financial Results,30-Jul-2024
+V2RETAIL,V2 Retail Limited,Financial Results/Other business matters,30-Jul-2024
+VBL,Varun Beverages Limited,Financial Results/Stock Split,30-Jul-2024
+VTL,Vardhman Textiles Limited,Financial Results,30-Jul-2024
+ZAGGLE,Zaggle Prepaid Ocean Services Limited,Financial Results,30-Jul-2024

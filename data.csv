@@ -1,83 +1,73 @@
 symbol,company,purpose,date
-ACE,Action Construction Equipment Limited,Financial Results,31-Jul-2024
-ADANIPOWER,Adani Power Limited,Financial Results,31-Jul-2024
-AMBUJACEM,Ambuja Cements Limited,Financial Results,31-Jul-2024
-ANUP,The Anup Engineering Limited,Financial Results,31-Jul-2024
-ASAHIINDIA,Asahi India Glass Limited,Financial Results/Other business matters,31-Jul-2024
-ASTERDM,Aster DM Healthcare Limited,Financial Results,31-Jul-2024
-BANKBARODA,Bank of Baroda,Financial Results,31-Jul-2024
-BANSALWIRE,Bansal Wire Industries Limited,Financial Results,31-Jul-2024
-BARBEQUE,Barbeque Nation Hospitality Limited,Financial Results,31-Jul-2024
-BCG,Brightcom Group Limited,Other business matters,31-Jul-2024
-BHAGYANGR,Bhagyanagar India Limited,Financial Results,31-Jul-2024
-BHEL,Bharat Heavy Electricals Limited,Financial Results,31-Jul-2024
-BSOFT,BIRLASOFT LIMITED,Financial Results,31-Jul-2024
-COALINDIA,Coal India Limited,Financial Results,31-Jul-2024
-CSLFINANCE,CSL Finance Limited,Financial Results,31-Jul-2024
-DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,Financial Results,31-Jul-2024
-DWARKESH,Dwarikesh Sugar Industries Limited,Financial Results,31-Jul-2024
-DYCL,Dynamic Cables Limited,Financial Results,31-Jul-2024
-ELECTCAST,Electrosteel Castings Limited,Financial Results,31-Jul-2024
-ELGIEQUIP,Elgi Equipments Limited,Financial Results,31-Jul-2024
-ENIL,Entertainment Network (India) Limited,Financial Results/Other business matters,31-Jul-2024
-FINOPB,Fino Payments Bank Limited,Financial Results,31-Jul-2024
-FIVESTAR,Five-Star Business Finance Limited,Financial Results,31-Jul-2024
-GET&D,GE T&D India Limited,Financial Results,31-Jul-2024
-GINNIFILA,Ginni Filaments Limited,Financial Results,31-Jul-2024
-GODREJPROP,Godrej Properties Limited,Financial Results/Other business matters,31-Jul-2024
-GPTINFRA,GPT Infraprojects Limited,Financial Results,31-Jul-2024
-GREENPLY,Greenply Industries Limited,Financial Results,31-Jul-2024
-HEIDELBERG,HeidelbergCement India Limited,Financial Results,31-Jul-2024
-IIFLSEC,IIFL Securities Limited,Financial Results/Other business matters,31-Jul-2024
-IMFA,Indian Metals & Ferro Alloys Limited,Financial Results/Other business matters,31-Jul-2024
-INDOSTAR,IndoStar Capital Finance Limited,Financial Results,31-Jul-2024
-JBMA,JBM Auto Limited,Financial Results/Fund Raising/Other business matters,31-Jul-2024
-JISLDVREQS,Jain Irrigation Systems Limited,Financial Results,31-Jul-2024
-JISLJALEQS,Jain Irrigation Systems Limited,Financial Results,31-Jul-2024
-JKLAKSHMI,JK Lakshmi Cement Limited,Financial Results,31-Jul-2024
-KERNEX,Kernex Microsystems (India) Limited,Financial Results/Other business matters,31-Jul-2024
-KPRMILL,K.P.R. Mill Limited,Financial Results,31-Jul-2024
-KRBL,KRBL Limited,Financial Results/Other business matters,31-Jul-2024
-LAXMIMACH,Lakshmi Machine Works Limited,Financial Results,31-Jul-2024
-LGBBROSLTD,LG Balakrishnan & Bros Limited,Financial Results,31-Jul-2024
-M&M,Mahindra & Mahindra Limited,Financial Results/Other business matters,31-Jul-2024
-MANKIND,Mankind Pharma Limited,Financial Results,31-Jul-2024
-MARUTI,Maruti Suzuki India Limited,Financial Results,31-Jul-2024
-MURUDCERA,Murudeshwar Ceramics Limited,Financial Results/Dividend,31-Jul-2024
-NECCLTD,North Eastern Carrying Corporation Limited,Financial Results,31-Jul-2024
-NIBL,NRB Industrial Bearings Limited,Financial Results,31-Jul-2024
-NILKAMAL,Nilkamal Limited,Financial Results,31-Jul-2024
-NITINFIRE,Nitin Fire Protection Industries Limited,Financial Results,31-Jul-2024
-NITINFIRE,Nitin Fire Protection Industries Limited,Financial Results,31-Jul-2024
-NUVOCO,Nuvoco Vistas Corporation Limited,Financial Results,31-Jul-2024
-ONMOBILE,OnMobile Global Limited,Financial Results,31-Jul-2024
-ORTINLAB,Ortin Laboratories Limited,Other business matters,31-Jul-2024
-OSWALAGRO,Oswal Agro Mills Limited,Financial Results,31-Jul-2024
-OSWALGREEN,Oswal Greentech Limited,Financial Results,31-Jul-2024
-OSWALGREEN,Oswal Greentech Limited,Financial Results,31-Jul-2024
-PHOENIXLTD,The Phoenix Mills Limited,Bonus,31-Jul-2024
-PHOENIXLTD,The Phoenix Mills Limited,Financial Results,31-Jul-2024
-PRESTIGE,Prestige Estates Projects Limited,Financial Results,31-Jul-2024
-PRICOLLTD,Pricol Limited,Financial Results,31-Jul-2024
-PURVA,Puravankara Limited,Financial Results,31-Jul-2024
-REDINGTON,Redington Limited,Financial Results,31-Jul-2024
-RELAXO,Relaxo Footwears Limited,Financial Results,31-Jul-2024
-RITES,RITES Limited,Financial Results/Dividend,31-Jul-2024
-RITES,RITES Limited,Bonus,31-Jul-2024
-SASKEN,Sasken Technologies Limited,Financial Results/Other business matters,31-Jul-2024
-SATIN,Satin Creditcare Network Limited,Financial Results,31-Jul-2024
-SELAN,Selan Exploration Technology Limited,Financial Results,31-Jul-2024
-SONATSOFTW,Sonata Software Limited,Financial Results,31-Jul-2024
-SPCENET,Spacenet Enterprises India Limited,Financial Results/Other business matters,31-Jul-2024
-STEELXIND,STEEL EXCHANGE INDIA LIMITED,Financial Results/Other business matters,31-Jul-2024
-STYLAMIND,Stylam Industries Limited,Financial Results,31-Jul-2024
-SUNDRMFAST,Sundram Fasteners Limited,Financial Results,31-Jul-2024
-TATAINVEST,Tata Investment Corporation Limited,Financial Results,31-Jul-2024
-TATASTEEL,Tata Steel Limited,Financial Results/Other business matters,31-Jul-2024
-TCNSBRANDS,TCNS Clothing Co. Limited,Financial Results,31-Jul-2024
-TEAMLEASE,Teamlease Services Limited,Financial Results,31-Jul-2024
-THOMASCOOK,Thomas Cook  (India)  Limited,Financial Results,31-Jul-2024
-TRACXN,Tracxn Technologies Limited,Financial Results/Other business matters,31-Jul-2024
-UGROCAP,Ugro Capital Limited,Financial Results/Other business matters,31-Jul-2024
-VIKASECO,Vikas EcoTech Limited,Financial Results/Other business matters,31-Jul-2024
-ZEEL,Zee Entertainment Enterprises Limited,Financial Results,31-Jul-2024
+ABCAPITAL,Aditya Birla Capital Limited,Financial Results,01-Aug-2024
+ADANIENT,Adani Enterprises Limited,Financial Results,01-Aug-2024
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,Financial Results,01-Aug-2024
+AKZOINDIA,Akzo Nobel India Limited,Financial Results,01-Aug-2024
+ALKYLAMINE,Alkyl Amines Chemicals Limited,Financial Results,01-Aug-2024
+APTUS,Aptus Value Housing Finance India Limited,Financial Results,01-Aug-2024
+ARVINDFASN,Arvind Fashions Limited,Financial Results,01-Aug-2024
+ATL,Allcargo Terminals Limited,Financial Results,01-Aug-2024
+BHARATWIRE,Bharat Wire Ropes Limited,Financial Results,01-Aug-2024
+BOMDYEING,Bombay Dyeing & Mfg Company Limited,Financial Results,01-Aug-2024
+BSHSL,Bombay Super Hybrid Seeds Limited,Financial Results,01-Aug-2024
+CLEAN,Clean Science and Technology Limited,Financial Results,01-Aug-2024
+DABUR,Dabur India Limited,Other business matters,01-Aug-2024
+DATAMATICS,Datamatics Global Services Limited,Financial Results,01-Aug-2024
+DIAMONDYD,Prataap Snacks Limited,Financial Results,01-Aug-2024
+EMAMILTD,Emami Limited,Financial Results,01-Aug-2024
+ESCORTS,Escorts Kubota Limited,Financial Results,01-Aug-2024
+EVERESTIND,Everest Industries Limited,Financial Results,01-Aug-2024
+EXPLEOSOL,Expleo Solutions Limited,Financial Results,01-Aug-2024
+GESHIP,The Great Eastern Shipping Company Limited,Financial Results/Dividend,01-Aug-2024
+GHCL,GHCL Limited,Financial Results,01-Aug-2024
+GHCLTEXTIL,GHCL Textiles Limited,Financial Results,01-Aug-2024
+GODREJAGRO,Godrej Agrovet Limited,Financial Results,01-Aug-2024
+GRINFRA,G R Infraprojects Limited,Financial Results,01-Aug-2024
+HIKAL,Hikal Limited,Financial Results,01-Aug-2024
+HIRECT,Hind Rectifiers Limited,Financial Results,01-Aug-2024
+HPL,HPL Electric & Power Limited,Financial Results,01-Aug-2024
+INDGN,Indegene Limited,Financial Results,01-Aug-2024
+ITC,ITC Limited,Financial Results,01-Aug-2024
+IXIGO,Le Travenues Technology Limited,Financial Results,01-Aug-2024
+JTEKTINDIA,Jtekt India Limited,Financial Results,01-Aug-2024
+KALYANKJIL,Kalyan Jewellers India Limited,Financial Results,01-Aug-2024
+KCP,KCP Limited,Financial Results,01-Aug-2024
+KOTHARIPET,Kothari Petrochemicals Limited,Financial Results,01-Aug-2024
+KSB,Ksb Limited,Financial Results,01-Aug-2024
+MARALOVER,Maral Overseas Limited,Financial Results,01-Aug-2024
+MAXHEALTH,Max Healthcare Institute Limited,Financial Results,01-Aug-2024
+NAVNETEDUL,Navneet Education Limited,Buyback,01-Aug-2024
+NEULANDLAB,Neuland Laboratories Limited,Financial Results,01-Aug-2024
+NIITMTS,NIIT Learning Systems Limited,Financial Results,01-Aug-2024
+ORIENTELEC,Orient Electric Limited,Financial Results,01-Aug-2024
+PARADEEP,Paradeep Phosphates Limited,Financial Results,01-Aug-2024
+PATINTLOG,Patel Integrated Logistics Limited,Financial Results/Other business matters,01-Aug-2024
+PDMJEPAPER,Pudumjee Paper Products Limited,Financial Results,01-Aug-2024
+PIGL,Power & Instrumentation (Gujarat) Limited,Fund Raising/Other business matters,01-Aug-2024
+PRINCEPIPE,Prince Pipes And Fittings Limited,Financial Results,01-Aug-2024
+PUNJABCHEM,Punjab Chemicals & Crop Protection Limited,Financial Results,01-Aug-2024
+RADIOCITY,Music Broadcast Limited,Financial Results,01-Aug-2024
+RAILTEL,Railtel Corporation Of India Limited,Financial Results,01-Aug-2024
+REPCOHOME,Repco Home Finance Limited,Financial Results,01-Aug-2024
+RTNPOWER,RattanIndia Power Limited,Financial Results,01-Aug-2024
+RUSHIL,Rushil Decor Limited,Financial Results/Other business matters,01-Aug-2024
+SAH,Sah Polymers Limited,Financial Results/Other business matters,01-Aug-2024
+SHAH,Shah Metacorp Limited,Other business matters,01-Aug-2024
+SJS,S.J.S. Enterprises Limited,Financial Results,01-Aug-2024
+SOMANYCERA,Somany Ceramics Limited,Financial Results,01-Aug-2024
+SUNDARMHLD,Sundaram Finance Holdings Limited,Financial Results,01-Aug-2024
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Financial Results,01-Aug-2024
+SURAJEST,Suraj Estate Developers Limited,Financial Results,01-Aug-2024
+SURYODAY,Suryoday Small Finance Bank Limited,Financial Results,01-Aug-2024
+TARACHAND,Tara Chand InfraLogistic Solutions Limited,Financial Results/Other business matters,01-Aug-2024
+TATAMOTORS,Tata Motors Limited,Financial Results,01-Aug-2024
+TATAMTRDVR,Tata Motors Limited,Financial Results,01-Aug-2024
+THERMAX,Thermax Limited,Financial Results,01-Aug-2024
+TIINDIA,Tube Investments of India Limited,Financial Results,01-Aug-2024
+TRIVENI,Triveni Engineering & Industries Limited,Financial Results,01-Aug-2024
+TVTODAY,TV Today Network Limited,Other business matters,01-Aug-2024
+UFO,UFO Moviez India Limited,Financial Results,01-Aug-2024
+VAIBHAVGBL,Vaibhav Global Limited,Financial Results/Dividend,01-Aug-2024
+WELENT,Welspun Enterprises Limited,Financial Results,01-Aug-2024
+YASHO,Yasho Industries Limited,Financial Results/Other business matters,01-Aug-2024
+ZOMATO,Zomato Limited,Financial Results,01-Aug-2024

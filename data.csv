@@ -1,36 +1,73 @@
 symbol,company,purpose,date
-AFFLE,Affle (India) Limited,Financial Results,03-Aug-2024
-AIROLAM,Airo Lam limited,Financial Results/Other business matters,03-Aug-2024
-APOLLOHOSP,Apollo Hospitals Enterprise Limited,Other business matters,03-Aug-2024
-ARE&M,Amara Raja Energy & Mobility Limited,Financial Results,03-Aug-2024
-ARROWGREEN,Arrow Greentech Limited,Financial Results/Other business matters,03-Aug-2024
-CAPTRUST,Capital Trust Limited,Financial Results,03-Aug-2024
-CAPTRUST,Capital Trust Limited,Financial Results,03-Aug-2024
-CDSL,Central Depository Services (India) Limited,Financial Results,03-Aug-2024
-CGCL,Capri Global Capital Limited,Financial Results,03-Aug-2024
-CGCL,Capri Global Capital Limited,Fund Raising,03-Aug-2024
-CHEMCON,Chemcon Speciality Chemicals Limited,Financial Results/Other business matters,03-Aug-2024
-DIVISLAB,Divi's Laboratories Limited,Financial Results,03-Aug-2024
-EVEREADY,Eveready Industries India Limited,Financial Results,03-Aug-2024
-GAEL,Gujarat Ambuja Exports Limited,Financial Results/Other business matters,03-Aug-2024
-GANGAFORGE,Ganga Forging Limited,Financial Results/Other business matters,03-Aug-2024
-GOKULAGRO,Gokul Agro Resources Limited,Financial Results/Other business matters,03-Aug-2024
-HIMATSEIDE,Himatsingka Seide Limited,Financial Results,03-Aug-2024
-JAYBARMARU,Jay Bharat Maruti Limited,Financial Results/Fund Raising/Other business matters,03-Aug-2024
-JKTYRE,JK Tyre & Industries Limited,Financial Results,03-Aug-2024
-KRITI,Kriti Industries (India) Limited,Financial Results,03-Aug-2024
-KRITINUT,Kriti Nutrients Limited,Financial Results,03-Aug-2024
-KUANTUM,Kuantum Papers Limited,Financial Results,03-Aug-2024
-LAGNAM,Lagnam Spintex Limited,Financial Results,03-Aug-2024
-NUCLEUS,Nucleus Software Exports Limited,Financial Results/Other business matters,03-Aug-2024
-PAR,Par Drugs and Chemicals Limited,Financial Results/Other business matters,03-Aug-2024
-RAMCOIND,Ramco Industries Limited,Financial Results,03-Aug-2024
-SBIN,State Bank of India,Financial Results,03-Aug-2024
-SBIN,State Bank of India,Fund Raising,03-Aug-2024
-SIYSIL,Siyaram Silk Mills Limited,Financial Results,03-Aug-2024
-SOTL,Savita Oil Technologies Limited,Financial Results/Buyback,03-Aug-2024
-TERASOFT,Tera Software Limited,Financial Results/Other business matters,03-Aug-2024
-UTKARSHBNK,Utkarsh Small Finance Bank Limited,Financial Results/Other business matters,03-Aug-2024
-WEBELSOLAR,Websol Energy System Limited,Financial Results,03-Aug-2024
-ZIMLAB,Zim Laboratories Limited,Financial Results,03-Aug-2024
-ZUARI,Zuari Agro Chemicals Limited,Financial Results,03-Aug-2024
+AARTIPHARM,Aarti Pharmalabs Limited,Financial Results/Other business matters,05-Aug-2024
+ABAN,Aban Offshore Limited,Financial Results,05-Aug-2024
+AMJLAND,Amj Land Holdings Limited,Financial Results,05-Aug-2024
+ANDHRAPAP,ANDHRA PAPER LIMITED,Financial Results,05-Aug-2024
+AVANTIFEED,Avanti Feeds Limited,Financial Results,05-Aug-2024
+BEML,BEML Limited,Financial Results,05-Aug-2024
+BHARTIARTL,Bharti Airtel Limited,Financial Results,05-Aug-2024
+BHARTIHEXA,Bharti Hexacom Limited,Financial Results,05-Aug-2024
+BLS,BLS International Services Limited,Financial Results/Fund Raising,05-Aug-2024
+BLSE,BLS E-Services Limited,Financial Results,05-Aug-2024
+BRIGADE,Brigade Enterprises Limited,Financial Results,05-Aug-2024
+BSL,BSL Limited,Financial Results,05-Aug-2024
+CENTENKA,Century Enka Limited,Financial Results,05-Aug-2024
+CENTURYPLY,Century Plyboards (India) Limited,Financial Results/Other business matters,05-Aug-2024
+CERA,Cera Sanitaryware Limited,Buyback,05-Aug-2024
+COUNCODOS,Country Condo's Limited,Other business matters,05-Aug-2024
+CUPID,Cupid Limited,Financial Results/Other business matters,05-Aug-2024
+DEEPAKNTR,Deepak Nitrite Limited,Financial Results,05-Aug-2024
+DEEPINDS,Deep Industries Limited,Financial Results,05-Aug-2024
+DEVIT,Dev Information Technology Limited,Financial Results,05-Aug-2024
+DEVYANI,Devyani International Limited,Financial Results/Other business matters,05-Aug-2024
+EIHAHOTELS,EIH Associated Hotels Limited,Financial Results,05-Aug-2024
+FAIRCHEMOR,Fairchem Organics Limited,Financial Results,05-Aug-2024
+GSFC,Gujarat State Fertilizers & Chemicals Limited,Financial Results,05-Aug-2024
+HAPPSTMNDS,Happiest Minds Technologies Limited,Fund Raising/Other business matters,05-Aug-2024
+HCC,Hindustan Construction Company Limited,Financial Results/Fund Raising,05-Aug-2024
+HGINFRA,H.G. Infra Engineering Limited,Financial Results,05-Aug-2024
+HLEGLAS,HLE Glascoat Limited,Financial Results,05-Aug-2024
+HONAUT,Honeywell Automation India Limited,Financial Results,05-Aug-2024
+INDRAMEDCO,Indraprastha Medical Corporation Limited,Financial Results,05-Aug-2024
+JOCIL,Jocil Limited,Financial Results,05-Aug-2024
+KANORICHEM,Kanoria Chemicals & Industries Limited,Financial Results,05-Aug-2024
+MANALIPETC,Manali Petrochemicals Limited,Financial Results,05-Aug-2024
+MANGLMCEM,Mangalam Cement Limited,Financial Results,05-Aug-2024
+MARICO,Marico Limited,Financial Results,05-Aug-2024
+MIRZAINT,Mirza International Limited,Financial Results,05-Aug-2024
+MONTECARLO,Monte Carlo Fashions Limited,Financial Results,05-Aug-2024
+MSUMI,Motherson Sumi Wiring India Limited,Financial Results,05-Aug-2024
+MUKANDLTD,Mukand Limited,Financial Results,05-Aug-2024
+NURECA,Nureca Limited,Financial Results/Other business matters,05-Aug-2024
+ONGC,Oil & Natural Gas Corporation Limited,Financial Results/Other business matters,05-Aug-2024
+ORIENTCEM,Orient Cement Limited,Financial Results,05-Aug-2024
+OSIAHYPER,Osia Hyper Retail Limited,Financial Results,05-Aug-2024
+PAKKA,PAKKA LIMITED,Fund Raising/Other business matters,05-Aug-2024
+PARAS,Paras Defence and Space Technologies Limited,Financial Results,05-Aug-2024
+REFEX,Refex Industries Limited,Financial Results/Fund Raising,05-Aug-2024
+RELTD,Ravindra Energy Limited,Financial Results,05-Aug-2024
+RHFL,Reliance Home Finance Limited,Financial Results/Other business matters,05-Aug-2024
+RUSTOMJEE,Keystone Realtors Limited,Financial Results,05-Aug-2024
+SANDUMA,Sandur Manganese & Iron Ores Limited,Financial Results,05-Aug-2024
+SCHNEIDER,Schneider Electric Infrastructure Limited,Financial Results/Other business matters,05-Aug-2024
+SDBL,Som Distilleries & Breweries Limited,Financial Results/Other business matters,05-Aug-2024
+SHREYANIND,Shreyans Industries Limited,Financial Results,05-Aug-2024
+SMSPHARMA,SMS Pharmaceuticals Limited,Financial Results/Other business matters,05-Aug-2024
+SMSPHARMA,SMS Pharmaceuticals Limited,Financial Results/Other business matters,05-Aug-2024
+SPARC,Sun Pharma Advanced Research Company Limited,Financial Results,05-Aug-2024
+SUBEXLTD,Subex Limited,Financial Results,05-Aug-2024
+SUNDARMFIN,Sundaram Finance Limited,Financial Results,05-Aug-2024
+SUVEN,Suven Life Sciences Limited,Financial Results,05-Aug-2024
+SVLL,Shree Vasu Logistics Limited,Financial Results,05-Aug-2024
+SYRMA,Syrma SGS Technology Limited,Financial Results,05-Aug-2024
+TAJGVK,Taj GVK Hotels & Resorts Limited,Financial Results,05-Aug-2024
+TAJGVK,Taj GVK Hotels & Resorts Limited,Financial Results,05-Aug-2024
+TATACHEM,Tata Chemicals Limited,Financial Results,05-Aug-2024
+TBZ,Tribhovandas Bhimji Zaveri Limited,Financial Results/Other business matters,05-Aug-2024
+TIRUPATIFL,Tirupati Forge Limited,Financial Results,05-Aug-2024
+TRITURBINE,Triveni Turbine Limited,Financial Results,05-Aug-2024
+UDS,Updater Services Limited,Financial Results,05-Aug-2024
+VIJAYA,Vijaya Diagnostic Centre Limited,Financial Results,05-Aug-2024
+VINYLINDIA,Vinyl Chemicals (India) Limited,Financial Results,05-Aug-2024
+VMART,V-Mart Retail Limited,Financial Results,05-Aug-2024
+VRLLOG,VRL Logistics Limited,Financial Results,05-Aug-2024
